@@ -7,27 +7,27 @@ This is a multi-page static website for Olfactory Oasis
 <br>
 <h1>The website includes:</h1>
 <br>
-<h2>Homepage:</h2>
+<h4>Homepage:</h4>
 <br>
 Welcome message, navigation bar, featured images, customer reviews.
 <br>
-<h2>New Arrival page:</h2>
+<h4>New Arrival page:</h4>
 <br>
 List of new perfumes.
 <br>
-<h2>Products for Men page:</h2> 
+<h4>Products for Men page:</h4> 
 <br>
 List of men perfumes.
 <br>
-<h2>Products for Women page:</h2> 
+<h4>Products for Women page:</h4> 
 <br>
 List of women perfumes.
 <br>
-<h2>Products for Unisex page:</h2>
+<h4>Products for Unisex page:</h4>
 <br>
 List of unisex perfumes
 <br>
-<h2>About Us page:</h2> 
+<h4>About Us page:</h4> 
 <br>
 Shows Olfactory Oasis’s passion for perfumes and customer experience.
 <br>
@@ -35,29 +35,25 @@ Shows Olfactory Oasis’s passion for perfumes and customer experience.
 <br>
 The main objective of this project is to demonstrate front-end web development skills using HTML, CSS, and JavaScript.
 <br>
-<h2>Group Members</h2>
-<br>
-<h4>Student 1:</h4>
-<br>
+<h4>Group Members</h4>
+<h6>Student 1:</h6>
 Name: Zunaira Ahmed, Roll No: 25F-3069.
 <br>
-<h4>Student 2:</h4> 
-<br>
+<h6>Student 2:</h6> 
 Name: Arooba Shahid, Roll No: 25F-6545.
 <br>
-<h4>Student 3:</h4> 
-<br>
+<h6>Student 3:</h6> 
 Name: Noor Ul Eiman, Roll No: 25F-3039.
 <br>
 <h2>Tools and Technologies</h2>
 <br>
-<h4>HTML5:</h4> <br>
+<h6>HTML5:</h6> 
 Structure of the web pages<br>
-<h4>CSS3:</h4> <br>
+<h6>CSS3:</h6> 
 Styling and layout<br>
-<h4>JavaScript:</h4> <br>
+<h6>JavaScript:</h6> 
 Dynamic functionality and interactivity<br>
-<h2>Features</h2><br>
+<h3>Features</h3>
 Responsive layout compatible with desktop<br>
 Navigation between pages<br>
 Contact form for user inquiries<br>
