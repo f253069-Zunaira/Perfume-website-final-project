@@ -1,11 +1,24 @@
 # Perfume-website-final-project
 Business Website Development Using HTML, CSS, and JavaScript
-
-Project Description This is a multi-page static website for Olfactory Oasis The website includes:
-
-Homepage: Welcome message, navigation bar, featured images, customer reviews.
-New Arrival page: List of new perfumes.
-Products for Men page: List of men perfumes.
+<br>
+<h1>Project Description:</h1>
+<br>
+This is a multi-page static website for Olfactory Oasis
+<br>
+<h1>The website includes:</h1>
+<br>
+<h2>Homepage:</h2>
+<br>
+Welcome message, navigation bar, featured images, customer reviews.
+<br>
+<h2>New Arrival page:</h2>
+<br>
+List of new perfumes.
+<br>
+<h2>Products for Men page:</h2> 
+<br>
+List of men perfumes.
+<br>
 Products for Women page: List of women perfumes.
 Products for Unisex page: List of unisex perfumes
 About Us page: Shows Olfactory Oasis’s passion for perfumes and customer experience.
